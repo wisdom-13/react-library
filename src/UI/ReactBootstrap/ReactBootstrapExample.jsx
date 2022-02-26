@@ -19,6 +19,7 @@ export default function ReactBootstrapExample() {
       <GridExample /> */}
       <h2>CarouseExample</h2>
       <CarouseExample />
+      <h2>MyModalWithGrid</h2>
       <MyModalWithGrid />
     </div>
   )

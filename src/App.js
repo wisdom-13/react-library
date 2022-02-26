@@ -7,11 +7,12 @@ import 'onsenui/css/onsen-css-components.css';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import ReactBootstrapExample from './UI/ReactBootstrap/ReactBootstrapExample';
+import MaterialUIExample from './UI/MaterialUI/MaterialUIExample';
 
 
 function App() {
   return ( 
-    <ReactBootstrapExample />
+    <MaterialUIExample />
   );
 }
 
